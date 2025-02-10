@@ -1,0 +1,3 @@
+.\NotesVenv\Scripts\activate
+ cd NoteDetection  
+py manage.py runserver
